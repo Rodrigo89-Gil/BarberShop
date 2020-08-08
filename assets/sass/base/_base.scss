@@ -1,0 +1,26 @@
+body{
+    font-family: $roboto;
+}
+
+a{
+    color: $Rudy-Pink;
+    padding-top: 4rem;
+    line-height: 1rem;
+    font-size: $large;
+    font-weight: $light-gray;
+
+    &:hover{
+    color: $Eerie-black;
+    text-decoration: none;
+    font-family: $roboto;
+    font-size: $large;
+}
+
+}
+li.active a{
+    color: $Rudy-Pink;
+}
+
+.rounded-content{
+    border-radius:30px;
+}

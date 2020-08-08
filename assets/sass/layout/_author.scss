@@ -1,0 +1,22 @@
+.author{
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+}
+.author__card-text{
+    padding-top: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: $medium;
+    font-weight: $light-gray;
+    line-height: 2rem;
+    color: #6C6E70;
+}
+.author__card-title{
+    padding-top: 1rem;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color:$Eerie-black;
+    font-style: italic;
+}
+.strong{
+    color: $Fuzzy-Wuzzy;
+}
